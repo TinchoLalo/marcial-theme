@@ -2,6 +2,11 @@
   "name": "marcial-theme",
   "displayName": "Marcial Theme",
   "description": "Theme for Visual Studio Code inspired in Marcial Arts.",
+  "author": {
+    "name": "Martin La Loggia",
+    "email": "nautacoder@gmail.com",
+    "url": "codernauta.com"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
@@ -17,5 +22,6 @@
         "path": "./themes/Marcial-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "codernauta"
 }
