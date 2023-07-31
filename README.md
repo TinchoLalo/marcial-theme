@@ -1,4 +1,4 @@
-# MARCIAL THEME
+# MARTIAL THEME
 
 ### Theme for Visual Studio Code based on Martial Arts.
 ## Images

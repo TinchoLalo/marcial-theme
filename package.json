@@ -1,13 +1,13 @@
 {
-  "name": "marcial-theme",
-  "displayName": "Marcial Theme",
-  "description": "Theme for Visual Studio Code inspired in Marcial Arts.",
+  "name": "martial-theme",
+  "displayName": "Martial Theme",
+  "description": "Theme for Visual Studio Code inspired in Martial Arts.",
   "author": {
     "name": "Martin La Loggia",
     "email": "nautacoder@gmail.com",
     "url": "codernauta.com"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,11 +17,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "Marcial",
+        "label": "Martial",
         "uiTheme": "vs-dark",
-        "path": "./themes/Marcial-color-theme.json"
+        "path": "./themes/Martial-color-theme.json"
       }
     ]
   },
-  "publisher": "marcial-theme"
+  "publisher": "martial-theme"
 }
