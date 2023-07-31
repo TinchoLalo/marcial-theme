@@ -3,7 +3,7 @@
 ### Theme for Visual Studio Code based on Martial Arts.
 ## Images
 
-![Screenshot](https://raw.githubusercontent.com/TinchoLalo/marcial-theme/main/Screenshot.png)
+![Screenshot](https://github.com/TinchoLalo/marcial-theme/blob/main/icons/Screenshot.png)
 
 ## For more information
 
